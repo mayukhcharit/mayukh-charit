@@ -15,7 +15,7 @@ header{
 .link{
     background-color: rgb(56, 59, 75);
     color: aliceblue;
-    font-size: 30px;
+    font-size: 1vw;
     font-family: josefin sans;
     text-decoration: none;
     padding: 0.8%;
@@ -35,7 +35,7 @@ header{
 }
 
 .title{
-    font-size: 50px;
+    font-size: 2vw;
     font-family: pacifico;
     color: aliceblue;
     background-color: rgb(56, 59, 75);
@@ -60,12 +60,12 @@ header{
 .name{
     color: ghostwhite;
     font-family: abril fatface;
-    font-size: 80px;
+    font-size: 4vw;
 }
 
 .text{
     color: rgb(238, 232, 223);
-    font-size: 20px;
+    font-size: 1vw;
     padding: 1%;
     float: left;
     width: 60%;
@@ -88,7 +88,7 @@ header{
     color: aliceblue;
     list-style: none;
     font-family: josefin sans;
-    font-size: 20px;
+    font-size: 1vw;
     background-color: rgb(63, 67, 85);
     margin: 1%;
     padding: 1%;
@@ -112,7 +112,7 @@ header{
     left: 50%;
     transform: translate(-50%, -50%);
     color: aliceblue;
-    font-size: 70px;
+    font-size: 4vw;
     font-family: pacifico;
 }
 
@@ -122,7 +122,7 @@ header{
     left: 50%;
     transform: translate(-50%, -50%);
     color: aliceblue;
-    font-size: 50px;
+    font-size: 3vw;
     font-family: pacifico;
     opacity: 0.7;
 }
